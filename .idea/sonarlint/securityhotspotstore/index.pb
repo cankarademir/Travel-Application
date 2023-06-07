@@ -1,0 +1,23 @@
+
+w
+Gapp/src/test/java/com/cankarademir/travelapplication/ExampleUnitTest.kt,1\1\113491303c8512e3c3bc5f9a0276fdfd36055c6f
+t
+Dapp/src/main/java/com/cankarademir/travelapplication/MainActivity.kt,8\6\86af3f29de2d97437fd62374adac759ff015ed9e
+@
+app/build.gradle,f\4\f4a01d6a4fcb971362ec00a83903fd3902f52164
+v
+Fapp/src/main/java/com/cankarademir/travelapplication/SignupActivity.kt,d\6\d6938db59c37618bc925b7f7191651f412e13776
+t
+Dapp/src/main/java/com/cankarademir/travelapplication/HomeActivity.kt,e\5\e5c73719a3aacc06cab91e1f4e9f17ba70f1ebf4
+P
+ app/src/main/AndroidManifest.xml,8\c\8c55c3ccc257e5907959013f99656e4c8ec3903e
+v
+Fapp/src/main/java/com/cankarademir/travelapplication/SigninActivity.kt,d\0\d0c59d3a1ef9a04f01e9f66ebbeca0b985af3095
+|
+Lapp/src/main/java/com/cankarademir/travelapplication/ui/home/HomeFragment.kt,5\7\57be879e95614c3b894eac364a674fb175f8c098
+u
+Eapp/src/main/java/com/cankarademir/travelapplication/models/Travel.kt,0\9\09673f559c332cb35ef15f2fe8271293dbc44076
+ƒ
+Sapp/src/main/java/com/cankarademir/travelapplication/adapter/RecyclerViewAdapter.kt,6\4\64a3d03cab10f2646e48b6c6073c37124a35301d
+‚
+Rapp/src/main/java/com/cankarademir/travelapplication/ui/gallery/GalleryFragment.kt,a\7\a73ee579d5b330dca76c50c7706e3f956afa0a79

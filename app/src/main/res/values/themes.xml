@@ -1,0 +1,20 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.TravelApplication" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/back</item>
+
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="Theme.TravelApplication" parent="Base.Theme.TravelApplication" />
+
+    <style name="Theme.TravelApplication.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="Theme.TravelApplication.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="Theme.TravelApplication.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+</resources>
