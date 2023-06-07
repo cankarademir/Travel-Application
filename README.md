@@ -8,6 +8,7 @@ A travel application where you can plan for the places you want to visit and vie
   
 | Pages in the app |
 | --------- |
+| Main Page |
 |  Sign In Page  |
 |  Forword  Scane  |
 |  Sıgn Up Page   |
